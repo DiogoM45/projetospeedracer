@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "tipo": "Text",
+        "texto": "PROJETO SPEED RACER",
+        "size": 60
+    },
+
+    {
+        "id": 2,
+        "tipo": "Text",
+        "texto": "Esse é um projeto da matéria de Programação para Dispositivos Móveis lecionado pela Professora Aline Brito para os alunos do terceiro ano de PJD Diogo Meireles e Vinícius Figueireido. O Objetivo da atividade é criar uma aplicação simples sobre o filme designado para a dupla: Speed Racer.",
+        "size": 20
+    },
+
+    {
+        "id": 3,
+        "tipo": "Text",
+        "texto": "O Projeto de jogo doi desenvolvido pela dupla em um período de aproximadamente 1 mês, desenvolvido no Unity 3D durante aulas de laboratório e em casa. A mecânica principal do jogo é a corrida entre a pista contra um inimigo bot. O carro modelado por um dos alunos foi inspirado no carro original do filme, Snake Oiler.  As keybinds do jogo são as setas direcionais do teclado, sendo a seta para cima para acelerar, a seta para baixo para frear e as setas para esquerda e direita para virar o carro.", 
+        "size": 20
+    }
+
+  
+
+
+
+
+
+
+
+
+
+
+]

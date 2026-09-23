@@ -1,0 +1,37 @@
+[
+   
+    {
+    "id": 1,
+    "nome": "ImagemSpeedRacer",
+    "tipo": "Image",
+    "caminho": "assets/images/fundo.jpg"
+    },
+
+    {
+    "id": 2,
+    "nome": "ImagemPista",
+    "tipo": "Image",
+    "caminho": "assets/images/pista.jpeg"
+    },
+
+    {
+    "id": 3,
+    "nome": "ImagemVisão",
+    "tipo": "Image",
+    "caminho": "assets/images/lindjo.jpeg"
+    },
+
+    {
+    "id": 4,
+    "nome": "ImagemModelagem",
+    "tipo": "Image",
+    "caminho": "assets/images/SnakeOiler.png"
+    },
+
+    {
+    "id": 5,
+    "nome": "ImagemSnakeOiler",
+    "tipo": "Image",
+    "caminho": "assets/images/carroslo.jpeg"
+    }
+]
