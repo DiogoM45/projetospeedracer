@@ -14,12 +14,9 @@ Sumário:
 2. Descrição dos Elementos
   Tela Inicial
     Finalidade
-   Tela Sobre Speed Racer (Filme)
-    Finalidade
    Tela Apresentação
     Finalidade
-   Tela Desenvolvimento
-    Finalidade
+  
 
 3. Projeto Speed Racer - Sumário
   Sobre o Projeto
